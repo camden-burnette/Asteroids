@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AsteroidSpawner : MonoBehaviour
 {
-    public Sprite asteroidSprite2;
+    public Sprite asteroidSprite23;
     // Start is called before the first frame update
     void Start()
     {
